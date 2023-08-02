@@ -1,0 +1,2 @@
+#modulewith the node_modules canbe ignored
+**/node_modules

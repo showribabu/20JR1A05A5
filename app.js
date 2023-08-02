@@ -43,10 +43,6 @@ app.get('/numbers',function(req,res){
   }
 });
 
-app.listen(port, () => {
-  console.log(`number-management-service listening at http://localhost:${port}`);
-})
-
 
 
 app.listen(2000,function(req,res){
